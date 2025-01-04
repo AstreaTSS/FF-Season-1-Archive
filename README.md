@@ -1,5 +1,9 @@
 # Home Page
 
+<p align="center">
+  <img src="logo.png" alt="Forbidden Fruit's Season 1 Banner" height=450/>
+</p>
+
 All Categories:
 * [E-Pads](https://astreatss.github.io/FF-Season-1-Archive/epads/epads)
 * [The Entrance](https://astreatss.github.io/FF-Season-1-Archive/entrance/entrance)
