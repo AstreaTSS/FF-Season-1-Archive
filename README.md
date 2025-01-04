@@ -1,7 +1,7 @@
 # Home Page
 
 <p align="center">
-  <img src="logo.png" alt="Forbidden Fruit's Season 1 Banner" height=450/>
+  <img src="logo.png" alt="Forbidden Fruit's Season 1 Banner" height=300/>
 </p>
 
 All Categories:
